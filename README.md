@@ -1,1 +1,3 @@
-# .github
+![Screenshot 2024-01-15 030311](https://github.com/MonashAIM/.github/assets/72686983/4e1f0291-9174-49f6-8296-056c3597bbac)
+
+**Monash AIM** is a student team affiliated with Monash University. We are an interdiciplinary team of students from the computer science and medical faculties. Our goal is the creation of a software ecosystem for medical imaging that helps clinicians with the diagnosis and treatment of medical conditions. Currently our research is in replicating research found within the domain as to build up experience. We hope that our ongoing efforts can provide a basis for future research into imaging for medical analysis.
